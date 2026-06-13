@@ -407,6 +407,3 @@ console.log(narasimha.philosophy());
 *Crafted with 🤖 AI · 💜 Passion · 🔥 Code — from Andhra Pradesh, India 🇮🇳*
 
 </div>
-ENDOFFILE
-
-echo "✅ Done — $(wc -l < /home/claude/README.md) lines"
