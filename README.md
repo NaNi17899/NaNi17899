@@ -1,4 +1,3 @@
-cat > /home/claude/README.md << 'ENDOFFILE'
 <!-- ████████████████████████████████████████████████████████████████████ -->
 <!--  ANIMATED HEADER — capsule-render wave with particle twinkling       -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
